@@ -154,7 +154,7 @@ cd bot</code>
   <a href="https://instagram.com/@jepara.allstar">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG">
   </a>
-  <a href="https://youtube.com/c/@kajevc">
+  <a href="https://youtube.com/@kajevc?si=5hN5u5k6RkDUOSgx">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT">
   </a>
   <a href="https://wa.me/62882020750208">
