@@ -54,8 +54,8 @@ pkg install nodejs git ffmpeg imagemagick python make g++ libwebp wget zip -y</c
 <br>
 <p>Jika kamu ingin mendownload langsung via terminal Termux, gunakan perintah ini:</p>
 <pre>
-<code># Download file zip (Ganti link dengan link direct MediaFire kamu)
-wget -O valdymex.zip "[LINK_DIRECT_MEDIAFIRE](https://www.mediafire.com/file/8xzq252d4tm62ir/valdymex.zip"
+<code># Download file zip
+wget -O valdymex.zip "https://www.mediafire.com/file/8xzq252d4tm62ir/valdymex.zip"
 
 # Unzip file
 unzip valdymex.zip
