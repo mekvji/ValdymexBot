@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/logo.png" width="200" alt="ValdyMex Logo">
+  <img src="https://raw.githubusercontent.com/mekvji/Pageme/refs/heads/main/1000452289-removebg-preview.png" width="200" alt="ValdyMex Logo">
   <h1>🤖 ValdyMex Studio</h1>
   <p><b>WhatsApp Bot Open Source - 100% Gratis & Edukatif</b></p>
 
