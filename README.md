@@ -36,11 +36,7 @@
 
 <h2 id="-instalasi">🛠️ Panduan Instalasi (Termux)</h2>
 <pre>
-<code># Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-# Install Module
+<code># Install Module
 npm install
 
 # Jalankan Bot
@@ -89,13 +85,13 @@ node .</code>
 
 <h2 id="-media-sosial">🌐 Media Sosial & Kontak</h2>
 <div align="center">
-  <a href="https://instagram.com/username_ig_kamu">
+  <a href="https://instagram.com/@jepara.allstar">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG">
   </a>
-  <a href="https://youtube.com/c/channel_kamu">
+  <a href="https://youtube.com/c/kajevc">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT">
   </a>
-  <a href="https://wa.me/6283191939584">
+  <a href="https://wa.me/62882020750208">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WA">
   </a>
 </div>
