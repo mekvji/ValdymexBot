@@ -73,7 +73,7 @@ cd valdymex-folder</code>
   <li>Dapatkan <b>API Key Gemini AI</b> di <a href="https://aistudio.google.com/app/apikey">Google AI Studio</a>.</li>
   <li>Buka file <code>setting.js</code>: <code>nano setting.js</code>.</li>
   <li>Masukkan API Key kamu pada bagian yang tersedia.</li>
-  <li>Ubah nomor owner di <code>lib/database/owner.json</code>.</li>
+  <li>Ubah nomor owner di <code>nano setting.js</code>.</li>
 </ol>
 
 <h3>5. Menjalankan Bot</h3>
