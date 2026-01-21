@@ -1,2 +1,108 @@
-# ValdymexBot
-Halah nyocot
+<div align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/logo.png" width="200" alt="ValdyMex Logo">
+  <h1>🤖 ValdyMex Studio</h1>
+  <p><b>WhatsApp Bot Open Source - 100% Gratis & Edukatif</b></p>
+
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Language-Node.js-green?style=for-the-badge" alt="NodeJS">
+  <br><br>
+  
+  <a href="#-fitur-utama">Fitur Utama</a> • 
+  <a href="#-instalasi">Instalasi</a> • 
+  <a href="#-daftar-menu">Daftar Menu</a> • 
+  <a href="#-media-sosial">Kontak</a>
+</div>
+
+<hr>
+
+<h2>📢 Informasi Penting</h2>
+<blockquote>
+  <p><b>TIDAK UNTUK DIJUAL:</b> Script ini disediakan sepenuhnya secara GRATIS. Jika ada yang menjual script ini, itu adalah penipuan. Project ini dibuat untuk tujuan edukasi dan pengembangan komunitas.</p>
+</blockquote>
+
+<hr>
+
+<h2 id="-fitur-utama">🌟 Fitur Unggulan</h2>
+<ul>
+  <li><b>Gemini AI Integrated:</b> Mampu menjawab berbagai pertanyaan secara otomatis.</li>
+  <li><b>RPG Game System:</b> Fitur permainan lengkap (Berburu, Memancing, Inventory, dll).</li>
+  <li><b>Management Tools:</b> Fitur Panel V2 (1GB - Unli) dan kontrol VPS.</li>
+  <li><b>Media Downloader:</b> TikTok, YouTube, Mediafire, dan lain-lain.</li>
+  <li><b>Automasi Group:</b> Anti-link, Welcome/Left, dan Tagall.</li>
+</ul>
+
+<hr>
+
+<h2 id="-instalasi">🛠️ Panduan Instalasi (Termux)</h2>
+<pre>
+<code># Clone Repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+# Install Module
+npm install
+
+# Jalankan Bot
+node .</code>
+</pre>
+
+<hr>
+
+<h2 id="-daftar-menu">📜 Daftar Menu Interaktif</h2>
+<table width="100%">
+  <tr>
+    <th width="30%">Kategori</th>
+    <th>Daftar Perintah (Commands)</th>
+  </tr>
+  <tr>
+    <td><b>👑 Owner</b></td>
+    <td>.setmenu, .addlimit, .addsewa, .ban, .unban, .setautobackup</td>
+  </tr>
+  <tr>
+    <td><b>🧠 AI & Tools</b></td>
+    <td>.ai, .gemini, .remini, .tohd, .obfus, .removebg, .brat</td>
+  </tr>
+  <tr>
+    <td><b>⚔️ RPG Game</b></td>
+    <td>.joinrpg, .inventory, .berburu, .memancing, .merampok, .pasar</td>
+  </tr>
+  <tr>
+    <td><b>👥 Group</b></td>
+    <td>.hidetag, .tagall, .antilinkgc, .kick, .promote, .setppgc</td>
+  </tr>
+  <tr>
+    <td><b>📥 Downloader</b></td>
+    <td>.tiktok, .play, .ytmp3, .ytmp4, .mediafire, .pstore</td>
+  </tr>
+  <tr>
+    <td><b>☁️ Panel/VPS</b></td>
+    <td>.1gb-v2, .5gb-v2, .unli-v2, .listpanel, .restartvps</td>
+  </tr>
+  <tr>
+    <td><b>🎨 Maker</b></td>
+    <td>.sticker, .qc, .smeme, .ephoto, .wm</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2 id="-media-sosial">🌐 Media Sosial & Kontak</h2>
+<div align="center">
+  <a href="https://instagram.com/username_ig_kamu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG">
+  </a>
+  <a href="https://youtube.com/c/channel_kamu">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT">
+  </a>
+  <a href="https://wa.me/6283191939584">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WA">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p>Dibuat dengan ❤️ oleh <b>ValdyMexStudio</b></p>
+  <img src="https://view-counter.api.fnkr.net/count.png?id=valdymex-repo&color=green" alt="Views">
+</div>
