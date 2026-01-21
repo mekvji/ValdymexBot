@@ -47,7 +47,7 @@ pkg install nodejs git ffmpeg imagemagick python make g++ libwebp wget zip -y</c
 
 <h3>2. Download Script (MediaFire)</h3>
 <div align="center">
-  <a href="LINK_MEDIAFIRE_KAMU_DISINI">
+  <a href="https://www.mediafire.com/file/8xzq252d4tm62ir/valdymex.zip/file">
     <img src="https://img.shields.io/badge/Download_Script-MediaFire-blue?style=for-the-badge&logo=mediafire&logoColor=white" alt="Download MediaFire">
   </a>
 </div>
@@ -55,11 +55,11 @@ pkg install nodejs git ffmpeg imagemagick python make g++ libwebp wget zip -y</c
 <p>Jika kamu ingin mendownload langsung via terminal Termux, gunakan perintah ini:</p>
 <pre>
 <code># Download file zip (Ganti link dengan link direct MediaFire kamu)
-wget -O valdymex.zip "LINK_DIRECT_MEDIAFIRE"
+wget -O valdymex.zip "[LINK_DIRECT_MEDIAFIRE](https://www.mediafire.com/file/8xzq252d4tm62ir/valdymex.zip"
 
 # Unzip file
 unzip valdymex.zip
-cd valdymex-folder</code>
+cd bot</code>
 </pre>
 
 <h3>3. Instalasi Library Node.js</h3>
