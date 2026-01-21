@@ -34,14 +34,80 @@
 
 <hr>
 
-<h2 id="-instalasi">🛠️ Panduan Instalasi (Termux)</h2>
-<pre>
-<code># Install Module
-npm install
+<h2 id="-instalasi">🛠️ Panduan Instalasi Anti-Gagal (Termux)</h2>
 
-# Jalankan Bot
-node .</code>
+<p>Ikuti langkah-langkah di bawah ini secara berurutan. Pastikan koneksi internet stabil selama proses instalasi.</p>
+
+<h3>1. Persiapan Lingkungan Termux</h3>
+<p>Salin dan tempel perintah ini untuk menginstal semua library sistem yang dibutuhkan:</p>
+<pre>
+<code>pkg update && pkg upgrade -y
+pkg install nodejs git ffmpeg imagemagick python make g++ libwebp wget zip -y</code>
 </pre>
+
+<h3>2. Download Script (MediaFire)</h3>
+<div align="center">
+  <a href="LINK_MEDIAFIRE_KAMU_DISINI">
+    <img src="https://img.shields.io/badge/Download_Script-MediaFire-blue?style=for-the-badge&logo=mediafire&logoColor=white" alt="Download MediaFire">
+  </a>
+</div>
+<br>
+<p>Jika kamu ingin mendownload langsung via terminal Termux, gunakan perintah ini:</p>
+<pre>
+<code># Download file zip (Ganti link dengan link direct MediaFire kamu)
+wget -O valdymex.zip "LINK_DIRECT_MEDIAFIRE"
+
+# Unzip file
+unzip valdymex.zip
+cd valdymex-folder</code>
+</pre>
+
+<h3>3. Instalasi Library Node.js</h3>
+<p>Masuk ke folder script dan instal semua modul yang dibutuhkan:</p>
+<pre>
+<code>npm install</code>
+</pre>
+
+<h3>4. Konfigurasi Bot</h3>
+<ol>
+  <li>Dapatkan <b>API Key Gemini AI</b> di <a href="https://aistudio.google.com/app/apikey">Google AI Studio</a>.</li>
+  <li>Buka file <code>setting.js</code>: <code>nano setting.js</code>.</li>
+  <li>Masukkan API Key kamu pada bagian yang tersedia.</li>
+  <li>Ubah nomor owner di <code>lib/database/owner.json</code>.</li>
+</ol>
+
+<h3>5. Menjalankan Bot</h3>
+<table>
+  <tr>
+    <th>Mode</th>
+    <th>Perintah</th>
+    <th>Keterangan</th>
+  </tr>
+  <tr>
+    <td><b>Foreground</b></td>
+    <td><code>node .</code></td>
+    <td>Bot terlihat di layar (mati jika Termux ditutup).</td>
+  </tr>
+  <tr>
+    <td><b>Background (PM2)</b></td>
+    <td><code>npm start</code></td>
+    <td>Bot tetap hidup di latar belakang.</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>⚠️ Solusi Error Umum</h2>
+
+<details>
+  <summary><b>Error saat 'npm install'</b></summary>
+  <p>Pastikan kamu sudah menginstal build-tools dengan perintah: <code>pkg install python make g++</code>. Jika masih error, hapus folder node_modules dan coba lagi.</p>
+</details>
+
+<details>
+  <summary><b>Pesan "Waiting for this message" di WhatsApp</b></summary>
+  <p>Ini masalah enkripsi WhatsApp. Biarkan bot aktif selama beberapa jam dan pastikan sesi (folder auth) tidak sering dihapus.</p>
+</details>
 
 <hr>
 
